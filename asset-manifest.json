@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LisowskiJakub.github.io/hw3-react-phone/static/css/main.864ffed0.css",
+    "main.js": "/LisowskiJakub.github.io/hw3-react-phone/static/js/main.8c2e83bb.js",
+    "index.html": "/LisowskiJakub.github.io/hw3-react-phone/index.html",
+    "main.864ffed0.css.map": "/LisowskiJakub.github.io/hw3-react-phone/static/css/main.864ffed0.css.map",
+    "main.8c2e83bb.js.map": "/LisowskiJakub.github.io/hw3-react-phone/static/js/main.8c2e83bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.864ffed0.css",
+    "static/js/main.8c2e83bb.js"
+  ]
+}
